@@ -1,0 +1,13 @@
+#CREDITS
+-
+I want to thank the Flightgear Italia team, we are a gruop of italian developers and we are tryng to improve Flightgear every day with projects like this. 
+We also have a website: "https://flightgearitalia.forumcommunity.net/".
+-
+Thank to Enrico Castaldi who inspired me, he is a real life pilot at LIBP. You can find some information about him, and also nice textures for many planes
+in Flightgear here: "http://enricocastaldi.simplesite.com/426975445".
+-
+Finally thank to the Fg community for supporting this fantastic simulator. "https://forum.flightgear.org/"
+
+_____________________________________________________________________________________________________________________________________________________________
+
+Valerio

@@ -1,0 +1,41 @@
+-INSTALLATION (ENG)-
+     
+   --Instructions--
+	
+	1)Extract the folder in a place of your choice (for example in your Desktop).
+	2)Run Flightgear and click on the Add-ons tab.
+	3)Go to "Additional scenery folders" and click "Add".
+	4)Select the folder of this airport, now you are ready to fly!
+	
+	(?)If you prefer, you can find some images for the installation.
+   
+   --Instructions--
+------------------------------------------------------------------------
+-INSTALLAZIONE (IT)
+
+   --Istruzioni--
+	
+	1)Estrai la cartella dove preferisci (ad esempio nel tuo Desktop).
+	2)Esegui Flightgear e clicca sul tab Componenti aggiuntivi.
+	3)Vai su "Cartelle scenari aggiuntivi" e clicca su "Aggiungi".
+	4)Seleziona la cartella di questo aeroporto, adesso sei pronto per volare!
+	
+	(?)Se preferisci, puoi trovare qualche immagine guida per l'installazione.
+   
+   --Istruzioni--
+-----------------------------------------------------------------------
+                                                            
+ 
+
+
+
+
+
+  ___        ____                                         
+ \ _ \_______\___\____                                      
+- \     LIBP    ____  |\_  _________________________________
+   \____________________ | 
+ - - - 	°°    - - - - °- - - - - - - - - - - - - - - - - - -         
+_____________________________________________________________
+
+-Valerio-
